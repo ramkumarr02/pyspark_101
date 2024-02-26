@@ -1,5 +1,6 @@
 1. PySpark 101
-1.1. Spark Packages
+   
+  1.1. Spark Packages
 1.2. Create Spark Session : which …
 1.3. Read input csv file
 1.4. Create a view of the datafram…
