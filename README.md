@@ -18,16 +18,16 @@
 
       1.8.1. Read with inferschema
 
-1.9. Dataframe details
+   1.9. Dataframe details
 
-1.9.1. dtype
-
-1.9.2. describe
+      1.9.1. dtype
+      
+      1.9.2. describe
 
 1.10. Modifying columns
 
-1.10.1. Add new column
-
-1.10.2. Drop a column
-
-1.10.3. Rename columns
+   1.10.1. Add new column
+   
+   1.10.2. Drop a column
+   
+   1.10.3. Rename columns
